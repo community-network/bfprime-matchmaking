@@ -1,0 +1,7 @@
+py-cord~=1.7.3
+discord-py-slash-command~=3.0.3
+motor~=2.4.0
+requests~=2.25.1
+dnspython~=2.1.0
+Pillow~=9.0.1
+discordhealthcheck~=0.0.8
